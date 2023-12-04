@@ -12,7 +12,7 @@
 
         include_once("../conn.php");
 
-        $nomecompleto = $_REQUEST['Nome'];
+        $nome = $_REQUEST['Nome'];
         $email = $_REQUEST['Email'];
         $Telefone = $_REQUEST['Telefone'];
         $Endereco = $_REQUEST['Endereco'];
