@@ -10,7 +10,7 @@
     <form action="assets/db/buscarproduto.php">
         <h2>Buscar </h2>
         <label>Produto</label>
-        <input type="Produto" name="Produto">
+        <input type="Código" name="Código">
         <input type="submit" value="Buscar">
     </form>
 </body>

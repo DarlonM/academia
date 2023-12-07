@@ -17,7 +17,7 @@
      <form action="assets/db/cadastrarproduto.php" method="POST">
         <label for="Descriçaõ">Descrição</label><br><br>
         <input type="text" Descriçaõ="Descrição"><br><br>
-        <label for="Descriçaõ">Código</label><br><br>
+        <label for="Código">Código</label><br><br>
         <input type="text" Código="Código"><br><br>
         <label for="Quantidade">Quantidade</label><br><br>
         <input type="text" Quantidade="Quantidade"><br><br>
