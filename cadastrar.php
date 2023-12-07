@@ -14,7 +14,7 @@
 
      <h2>Cadastrar</h2><br><br>
 
-     <form action="assets/db/cadastro/insert.php" method="POST">
+     <form action="assets/db/cadastrar.php" method="POST">
         <label for="nome">Nome</label><br><br>
         <input type="text" name="nome"><br><br>
         <label for="email">E-mail</label><br><br>

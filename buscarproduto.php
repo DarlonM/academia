@@ -7,7 +7,7 @@
     <title>Buscar</title>
 </head>
 <body>
-    <form action="assets/db/pessoa/select.php">
+    <form action="assets/db/buscarproduto.php">
         <h2>Buscar </h2>
         <label>Produto</label>
         <input type="email" name="email">
