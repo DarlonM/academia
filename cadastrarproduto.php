@@ -24,6 +24,7 @@
         <label for="Preço Total">Preço Total</label><br><br>
         <input type="text" Preço Total="Preço Total"><br><br>
         <input type="submit" value="Cadastrar">
+        
 
    
     </form>
